@@ -1,0 +1,12 @@
+module FBSDKCoreKit {
+  umbrella header "FBSDKCoreKit-umbrella.h"
+
+  export *
+  module * { export * }
+}
+
+
+module FBSDKCoreKit.Swift {
+  header "/Users/parul/Downloads/shobaik-lobaik-master/user/ios/build/myproUser/Build/Products/Debug-iphonesimulator/FBSDKCoreKit/Swift Compatibility Header/FBSDKCoreKit-Swift.h"
+  requires objc
+}

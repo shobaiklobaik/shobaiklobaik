@@ -1,0 +1,334 @@
+{
+  "splash": {
+    "signin": "تسجيل الدخول",
+    "skip": "تخطى",
+    "signup": "ليس لديك حساب؟ إنشاء حساب",
+    "permission_title": "مستخدم شبيك لبيك",
+    "permission_message": "السماح لـشبيك لبيك بالوصول إلى موقعك"
+  },
+  "alert": {
+    "ok": "حسناً",
+    "cancel": "إلغاء",
+    "notNow": "ليس الان",
+    "yes": "نعم",
+    "no": "لا"
+  },
+  "login": {
+    "phone": "رقم الهاتف",
+    "ok": "حسنا",
+    "password": "كلمة المرور",
+    "f_password": "هل نسيت كلمة المرور؟",
+    "login": "تسجيل الدخول",
+    "account": "لا تملك حساب ؟",
+    "signup": "إنشاء حساب"
+  },
+  "AddressListContainer": {
+    "showDialogue": "لم يتم إنشاء Google Maps API key لهذا التطبيق",
+    "SelectAddress": "اختر العنوان",
+    "OurAddress": "عنواني",
+    "AddAddress": "إضافة عنوان جديد",
+    // "Address": "      غيرت رأيك !!!    ",
+    "Address": "   العنوان   ",
+    "CONTINUE": "المتابعة",
+    "cancel": "إلغاء",
+    "Back": "رجوع"
+  },
+  "AddressMapContainer": {
+    "showDialogue": "لم يتم إنشاء Google Maps API key لهذا التطبيق",
+    "showDialoguesetting": "يرجى السماح بالوصول إلى موقعك من خلال الإعدادات",
+    "showValidationAlert": "يرجى السماح بالوصول إلى موقعك من خلال الإعدادات",
+    "AddressSelection": "تحديد العنوان",
+    "Back": "رجوع",
+    "AddressLine1": "العنوان",
+    "LandMark": "معلم معروف",
+    "permission_title": "مستخدم شبيك لبيك",
+    "permission_message": "السماح لـشبيك لبيك بالوصول إلى موقعك",
+    "Save": "حفظ"
+  },
+  "BookingAvailabilityContainer": {
+    "showDialogue": "لم يتم إنشاء Google Maps API key لهذا التطبيق.",
+    "EventBooking": "حجز الفعاليات",
+    "NearbyRestaurants": "المطاعم القريبة",
+    "Reload": "إعادة التحميل"
+  },
+  "BookingSuccessContainer": {
+    "Confirmation": " تأكيد الحجز",
+    "Thank": " شكرا لإختيارك شبيك لبيك ",
+    "Back": "رجوع",
+    "VIEWBOOKINGS": "عرض الحجوزات"
+  },
+  "CartContainer": {
+    "addons": "الإضافات",
+    "showDialogue": "لم يتم إنشاء Google Maps API key لهذا التطبيق.",
+    "alert": " شاء Google Maps API key لهذا التطبيق.",
+    "Cart": "السلة",
+    "Back": "رجوع",
+    "PickUporder": "الاستلام من المطعم/الفرع",
+    "Deliveryorder": "توصيل الطلب",
+    "Have": "هل تمتلك كود خصم ؟",
+    "Applied": "تم تطبيق",
+    "CHECKOUT": "الدفع",
+    "PriceDetails": "  الفاتورة",
+    "SelectDateTime": "SELECT DATE & TIME",
+    "PickUp_order": "الاستلام من المطعم",
+    "Delivery_order": "طلب مع التوصيل",
+    "Order_now": "اطلب الآن ",
+    "Order_later": "اطلب لاحقا"
+  },
+  "ChangePasswordContainer": {
+    "ChangePassword": "تغيير كلمة المرور",
+    "Back": "رجوع",
+    "OldPassword": "كلمة المرور القديمة ",
+    "NewPassword": "كلمة المرور الجديدة",
+    "ConfirmPassword": "تأكيد كلمة المرور"
+  },
+  "CMSContainer": {
+    "AboutUs": " من نحن ",
+    "ContactUs": "اتصل بنا",
+    "Back": "رجوع"
+  },
+  "EventBookContainer": {
+    "BookingAvailability": "توافر الحجزوات",
+    "Back": "رجوع",
+    "CONFIRM": "تأكيد",
+    "CANCEL": "إلغاء",
+    "HowManypeople": "كم عدد الاشخاص؟",
+    "People": "شخص",
+    "Peoples": "أشخاص",
+    "SelectDate": "حدد التاريخ",
+    "CheckAvailability": "التحقق من وجود الخدمة",
+    "Dining": "حدد الوقت",
+    "Reviews": "التقييم",
+    "Packages": "الوجبات القيمة  "
+  },
+  "FilterContainer": {
+    "Filter": "حدد بحثك",
+    "Back": "رجوع",
+    "TypeofFood": "نوع الطعام",
+    "TypeofRecipe": "نوع الوصفة",
+    "SortByDistance": "الترتيب حسب المسافة",
+    "CookingTime": "وقت الطهي",
+    "SortByPrice": "الترتيب حسب السعر",
+    "APPLYFILTER": "تطبيق ",
+    "RESET": "إعادة تعيين",
+    "Both": "dsd",
+    "Veg": "dsd",
+    "NonVeg": "dsd",
+    "High": "dsd",
+    "Low": "dsd"
+  },
+  "MainContainer": {
+    "showDialogue": "لم يتم إنشاء Google Maps API key لهذا التطبيق.",
+    "Home": "الرئيسية",
+    // "Menu": "قائمة الطعام",
+    "PopularRestaurants": "الأكثر شيوعاً",
+    "CANCEL": "إلغاء",
+    "Search": "ابحث هنا ",
+    "Reload": "إعادة التحميل "
+  },
+  "RestaurantOverview": {
+    "Menu": "القائمة",
+    "Close": " مغلق مؤقتا"
+  },
+  "Language": {
+    "Language": "اللغة"
+  },
+  "SideBar": {
+    "Language": "اللغة",
+    "Welcome": "مرحبا بك",
+    "Welcomeg": "مرحبا بك",
+    "Home": "الرئيسية",
+    "Recipe": "الوصفات",
+    "Order": "طلباتي",
+    "EventBooking": "حجز الفعاليات",
+    "MyBooking": "حجوزاتي",
+    "Notification": "الإشعارات ",
+    "RateUs": "تقيم الخدمة",
+    "Shareus": "مشاركة التطبيق",
+    "PrivacyPolicy": "سياسة الخصوصية",
+    "AboutUs": "من نحن",
+    "ContactUs": "اتصل بنا",
+    "SignOut": "تسجيل الخروج",
+    "Are": " هل أنت متأكد من أنك تريد تسجيل الخروج ؟",
+    "Yes": "نعم ",
+    "No": "لا "
+  },
+  "MyBookingContainer": {
+    "MyBooking": "الحجز",
+    "showDialogue": "لم يتم إنشاء Google Maps API key لهذا التطبيق.",
+    "cancel": "إلغاء",
+    "Upcoming": "الحجوزات القادمة",
+    "Past": "الحجوزات السابقة",
+    "CANCEL": "إلغاء"
+  },
+  "MyOrderContainer": {
+    "Order": "معلومات",
+    "OrderDetails": "معلومات الطلب",
+    "ItemOrdered": "عنصر مطلوب",
+    "ItemsOrdered": "عناصر مطلوبة",
+    "InProcess": "الطلبات الحالية",
+    "PastOrders": "الطلبات السابقة",
+    "Placed": "قيد التنفيذ",
+    "preparing": "جاري الإعداد",
+    "Ontheway": "في الطريق",
+    "delivered": "تم التوصيل",
+    "TrackYourOrder": "تتبع طلبك "
+  },
+  "NotificationList": {
+    "Notification": "إشعار"
+  },
+  "OrderConfirm": {
+    "Back": "رجوع",
+    "Confirmation": "تأكيد تسليم طلبك",
+    "TRACKYOURORDER": "تتبع طلبك",
+    "Thank": "شكرا لإختيارك شبيك لبيك "
+  },
+  "OrderDetailContainer": {
+    "Login": "الرجاء تسجيل الدخول",
+    "OrderDetail": "معلومات الطلب",
+    "Back": "رجوع",
+    "OrderNo": "رقم الطلب",
+    "REORDER": "إعادة الطلب",
+    "not": "هذا المطعم لا يقبل الطلبات حاليا ",
+    "Status": "الحالة",
+    "AmountPaid": "المبلغ المدفوع",
+    "Qty": "الكمية",
+    "OrderFeedback": "تقيم الطلب",
+    "DriverFeedback": "تقيم التوصيل",
+    "OrderRating": "تقيمي للطلب",
+    "DriverRating": "تقيمي للتوصيل"
+  },
+  "OTPContainer": {
+    "OTP": "رمز التحقق غير صالح. الرجاء المحاولة مرة اخرى",
+    "sent": "تم إرسال رمز التحقق!",
+    "Verification": "التحقق من الرمز",
+    "Back": "رجوع",
+    "Enter": "أدخل رمز التحقق من خلال رقم الهاتف ",
+    "we": "لقد أرسلنا لك",
+    "OTP1": "رمز التحقق",
+    "Verify": "تحقق",
+    "enterOTP": "يرجى إدخال رمز التحقق",
+    "ResendOTP": "إعادة إرسال رمز التحقق"
+  },
+  "PaymentContainer": {
+    "Payment": "الدفع",
+    "Back": "رجوع",
+    "Cash": "الدفع عند الاستلام",
+    "onlinePayment": "الدفع الإلكتروني",
+    "Confirmation": "التأكيد",
+    "CONTINUE": "المتابعة ",
+    "order_cancel": "إلغاء الطلب",
+    "Continue_with_order": "استمر بالطلب",
+    "Sub_Total": "المجموع الفرعي",
+    "Service_Fee": "رسوم الخدمة",
+    "Discount": "خصم",
+    "Delivery_Fee": "رسوم التوصيل",
+    "Total": "مجموع",
+    "Change_mind": "      غيرت رأيك !!!   ",
+    // "Change_mind": "غيرت رأيك",
+    "20_Second_To_Cancel": "لديك 20 ثانية للإلغاء"
+  },
+  "PrivacyPolicy": {
+    "PrivacyPolicy": "سياسة الخصوصية",
+    "Back": "رجوع"
+  },
+  "ProfileContainer": {
+    "MyAccount": "حسابي",
+    "Back": "رجوع",
+    "OurAddress": "عنواني",
+    "ChangePassword": "تغيير كلمة المرور",
+    "Notification": "إشعار"
+  },
+  "PromoCode": {
+    "PromoCode": "كود الخصم",
+    "Back": "رجوع"
+  },
+  "RecipeContainer": {
+    "Recipe": "الوصفة",
+    "Search": "ابحث هنا "
+  },
+  "RestaurantEventBookCard": {
+    "Book": "حجز"
+  },
+  "RecipeDetail": {
+    "Recipe": "الوصفة",
+    //    "Menu": "قائمة الطعام",
+    "Back": "رجوع"
+  },
+  "Restaurant": {
+    "Restaurant": "المتجر",
+    "Menu": "قائمة الطعام",
+    "Back": "رجوع",
+    "comment": "اكتب ملاحظاتك",
+    "Give": "يرجى إعطاء رأيك",
+    "SUBMIT": "إرسال",
+    "ADDREVIEW": "يرجى إعطاء رأيك وتقييم الخدمة",
+    "Photos": "صور",
+    "PopularItems": "الأكثر طلباً",
+    "Reviews": "التقييم"
+  },
+  "RestaurantDetail": {
+    "not": "لم يتم قبول على الطلب بعد .... !!!",
+    "add": "تمت الإضافة بنجاح!",
+    "Back": "رجوع"
+  },
+  "SignupContainer": {
+    "Name": "الإسم",
+    "PhoneNumber": "رقم الهاتف",
+    "Password": "كلمة المرور",
+    "SIGNUP": "إنشاء حساب",
+    "LOGIN": "هل لديك حساب؟ تسجيل الدخول"
+  },
+  "TrackOrderContainer": {
+    "order": "رقم الطلب ",
+    "deliver": "سوف يتم توصيل طلبك ",
+    "pay": "Pay amount - $",
+    "Arriving": "الوصول إلى:",
+    "Vieworder": "عرض الطلب",
+    "Trackorder": "تتبع الطلب",
+    "Back": "رجوع"
+  },
+  "Messages": {
+    "emptyEmail": "الرجاء إدخال عنوان البريد الإلكتروني الخاص بك.",
+    "emptyPassword": "الرجاء إدخال كلمة المرور الخاصة بك.",
+    "validEmail": "رجاء قم بإدخال بريد الكتروني صحيح.",
+    "validPassword": "الرجاء إدخال كلمة المرور الصحيحة.",
+    "validPasswordConfirm": "كلمة المرور ليست متطابقة.",
+    "generalWebServiceError": "الخادم لا يستجيب يوجد ضعف في الاتصال",
+    "noDataFound": "لم يتم العثور على حساب للرقم المسجل ",
+    "noBlogsFound": "No blogs found",
+    "noInternet": "يرجى التحقق من اتصالك بالإنترنت والمحاولة مرة أخرى.",
+    "appName": "مستخدم شبيك لبيك",
+    "emptyName": "الرجاء إدخال الإسم.",
+    "emptyPhone": "الرجاء إدخال رقم الهاتف.",
+    "deleteEvent": "هل أنت متأكد أنك تريد حذف الحجز الخاص بك؟",
+    "deleteAddress": "هل أنت متأكد أنك تريد حذف العنوان؟",
+    "selectAddress": "يرجى التكبير والنقر على الخريطة لتحديد موقعك",
+    "forgotPasswordValidMobileMsg": "تم تغيير كلمة المرور بنجاح. ",
+    "validationPhoneMsg": "الرجاء إدخال رقم الهاتف.",
+    "validationPasswordMsg": "الرجاء إدخال كلمة المرور",
+    "forgotPasswordTxt": "هل نسيت كلمة المرور",
+    "loginValidation": "يرجى تسجيل الدخول لإكمال الطلب ",
+    "passwordValidationString": "يجب أن تكون كلمة المرور من 6 إلى 12 حرفًا أبجديًا وأحرفًا صغيرة وصغيرة ورمزًا خاصًا من ما يلي #؟! @ $٪ ^ & * -.",
+    "phoneValidationString": "يجب أن يكون رقم الهاتف مكون من 9 ارقام على الأقل",
+    "internetConnnection": "يرجى التحقق من اتصال الإنترنت. ",
+    "pendingOrderFromAnotherRestaurent": "هنالك طلبات من مطاعم اخرى في سلة المشتريات.",
+    "cartItemNotAvailable": "الرجاء إضافة الطلب لاكمال العملية.",
+    "otpValidation ": "أدخل رمز التحقق المرسل إلى رقم الهاتف الذي تم التسجيل به.",
+    "diningDateValidation": "يرجى تحديد موعد الحجز الخاص بك",
+    "diningTimeValidation": "يرجى تحديد تاريخ الحجز الخاص بك.",
+    "addPeopleValidation": "الرجاء إضافة عدد الأشخاص",
+    "addressValidation": "حقل العنوان مطلوب",
+    "addressSelectionValidation": "يرجى تحديد العنوان",
+    "emptyCartMsg": "سلة المشتريات فارغة",
+    "deleteItemMsg": "هل أنت متأكد أنك تريد حذف هذا العنصر؟",
+    "oldPasswordMsg": "الرجاء إدخال كلمة المرور القديمة.",
+    "NewPasswordMsg": "الرجاء إدخال كلمة مرور جديدة.",
+    "cnfPasswordMsg": "الرجاء تأكيد كلمة المرور.",
+    "passwordSameMsg": "كلمة المرور الجديدة وتأكيد كلمة المرور يجب أن تكون نفسها",
+    "noOrderMsg": "لم يتم تنفيذ اي طلب من حسابك بعد !!!",
+    "login": " تسجيل الدخول ",
+    "signupMsg": " إنشاء حساب",
+    "phoneValidationIssueString": "يجب ألا يبدأ رقم الهاتف بالرقم 1"
+  }
+}

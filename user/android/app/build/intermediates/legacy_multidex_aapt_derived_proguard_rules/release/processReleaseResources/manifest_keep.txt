@@ -1,0 +1,4 @@
+# Referenced at /Users/parul/Downloads/shobaik-lobaik-master/user/android/app/build/intermediates/merged_manifests/release/AndroidManifest.xml:31
+-keep class androidx.core.app.CoreComponentFactory { <init>(); }
+# Referenced at /Users/parul/Downloads/shobaik-lobaik-master/user/android/app/build/intermediates/merged_manifests/release/AndroidManifest.xml:31
+-keep class com.shobaik.lobaik.users.MainApplication { <init>(); }

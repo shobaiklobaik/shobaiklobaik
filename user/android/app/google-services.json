@@ -1,0 +1,115 @@
+{
+  "project_info": {
+    "project_number": "256270237002",
+    "firebase_url": "https://shobaik-lobaik-1574785996914.firebaseio.com",
+    "project_id": "shobaik-lobaik-1574785996914",
+    "storage_bucket": "shobaik-lobaik-1574785996914.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:256270237002:android:399969166a3b4fd5aad5b3",
+        "android_client_info": {
+          "package_name": "com.shobaik.lobaik.user"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "256270237002-b1smeqjefjrasae4ef4r5rlebensel4u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.shobaik.lobaik.user",
+            "certificate_hash": "ff80f44d047277b4f43fad1bacd886b7224f4d97"
+          }
+        },
+        {
+          "client_id": "256270237002-stot1el95an80q7t3f3ik1qhterq8j2j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.shobaik.lobaik.user",
+            "certificate_hash": "ffacf21fd184c06320cc34a8e15b510b4040f657"
+          }
+        },
+        {
+          "client_id": "256270237002-uknphp02khhkekauvvuhn3ed0r604uo2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.shobaik.lobaik.user",
+            "certificate_hash": "532652b9f633515a198393bfd223a9ac41fdd1f1"
+          }
+        },
+        {
+          "client_id": "256270237002-c8nhj7jh6ccummu581oc0r91u59u0r7c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.shobaik.lobaik.user",
+            "certificate_hash": "e1ac8c52c3562bb2e2340f4b2673ad50e1b4e52b"
+          }
+        },
+        {
+          "client_id": "256270237002-jbdfc9i3sunn0d4jrtsg8kb8nmk9btrk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDoyj0XNiuPl3-y-iWtN08mJvF8HeBnVhA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "256270237002-cks187u1ek4qv6h1bbbbbkki5g5lfe03.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "256270237002-54uu4i7f8b0ujsjkbp439s3ro1ke6s27.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.shobaik.lobaik.user"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:256270237002:android:87352e542233655aaad5b3",
+        "android_client_info": {
+          "package_name": "com.shobaik.lobaik.users"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "256270237002-jbdfc9i3sunn0d4jrtsg8kb8nmk9btrk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDoyj0XNiuPl3-y-iWtN08mJvF8HeBnVhA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "256270237002-cks187u1ek4qv6h1bbbbbkki5g5lfe03.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "256270237002-54uu4i7f8b0ujsjkbp439s3ro1ke6s27.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.shobaik.lobaik.user"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,143 @@
+{
+  "project_info": {
+    "project_number": "489843727129",
+    "firebase_url": "https://shobaiklobaikdriver.firebaseio.com",
+    "project_id": "shobaiklobaikdriver",
+    "storage_bucket": "shobaiklobaikdriver.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:489843727129:android:75d8b76833e3f470c18388",
+        "android_client_info": {
+          "package_name": "com.shobaik.lobaik.captain"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "489843727129-b1s7l9k6c1henlpd01k66bgkhdispk1l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBi8x0k5KG5ZrAND-sNuplZW2YjH0b-5zQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "489843727129-shgak3r01gs9pf9u36274i0m832hn2md.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "489843727129-691cn5p2cmfen661rn5cdfeqiu6ppj2d.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.shobaiklobaik.driver"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:489843727129:android:6405c517a62af919c18388",
+        "android_client_info": {
+          "package_name": "com.shobaik.lobaik.driver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "489843727129-h78t9huqfi2f29gfc1k280v0fvogmjek.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.shobaik.lobaik.driver",
+            "certificate_hash": "981c4eb63fcf48181b4157d7d14fecd0023c32b2"
+          }
+        },
+        {
+          "client_id": "489843727129-54u9mu8g6kuhkvhsmm021tqp9v1krv2h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.shobaik.lobaik.driver",
+            "certificate_hash": "532652b9f633515a198393bfd223a9ac41fdd1f1"
+          }
+        },
+        {
+          "client_id": "489843727129-b1s7l9k6c1henlpd01k66bgkhdispk1l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBi8x0k5KG5ZrAND-sNuplZW2YjH0b-5zQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "489843727129-shgak3r01gs9pf9u36274i0m832hn2md.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "489843727129-691cn5p2cmfen661rn5cdfeqiu6ppj2d.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.shobaiklobaik.driver"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:489843727129:android:09c61e92ad58ab9ec18388",
+        "android_client_info": {
+          "package_name": "com.shobaiklobaik.driver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "489843727129-jvagoj0fmtjmfki75imoddkcpo3louqt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.shobaiklobaik.driver",
+            "certificate_hash": "fa7dbf67311ef0368e33c712070a6b41a96759bd"
+          }
+        },
+        {
+          "client_id": "489843727129-b1s7l9k6c1henlpd01k66bgkhdispk1l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBi8x0k5KG5ZrAND-sNuplZW2YjH0b-5zQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "489843727129-shgak3r01gs9pf9u36274i0m832hn2md.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "489843727129-691cn5p2cmfen661rn5cdfeqiu6ppj2d.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.shobaiklobaik.driver"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

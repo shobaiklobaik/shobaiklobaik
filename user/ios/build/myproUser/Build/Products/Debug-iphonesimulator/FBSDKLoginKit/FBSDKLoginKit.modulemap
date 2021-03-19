@@ -1,0 +1,12 @@
+module FBSDKLoginKit {
+  umbrella header "FBSDKLoginKit-umbrella.h"
+
+  export *
+  module * { export * }
+}
+
+
+module FBSDKLoginKit.Swift {
+  header "/Users/parul/Downloads/shobaik-lobaik-master/user/ios/build/myproUser/Build/Products/Debug-iphonesimulator/FBSDKLoginKit/Swift Compatibility Header/FBSDKLoginKit-Swift.h"
+  requires objc
+}

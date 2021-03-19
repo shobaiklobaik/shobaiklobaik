@@ -1,0 +1,47 @@
+dependencies: \
+  /Users/parul/Downloads/shobaik-lobaik-master/user/node_modules/react-native/Libraries/NativeAnimation/RCTNativeAnimatedNodesManager.m \
+  /Users/parul/Downloads/shobaik-lobaik-master/user/ios/Pods/Target\ Support\ Files/React-RCTAnimation/React-RCTAnimation-prefix.pch \
+  /Users/parul/Downloads/shobaik-lobaik-master/user/node_modules/react-native/Libraries/NativeAnimation/RCTNativeAnimatedNodesManager.h \
+  /Users/parul/Downloads/shobaik-lobaik-master/user/ios/Pods/Headers/Public/React-Core/React/RCTBridgeModule.h \
+  /Users/parul/Downloads/shobaik-lobaik-master/user/ios/Pods/Headers/Public/React-Core/React/RCTDefines.h \
+  /Users/parul/Downloads/shobaik-lobaik-master/user/ios/Pods/Headers/Public/React-Core/React/RCTUIManager.h \
+  /Users/parul/Downloads/shobaik-lobaik-master/user/ios/Pods/Headers/Public/React-Core/React/RCTBridge.h \
+  /Users/parul/Downloads/shobaik-lobaik-master/user/ios/Pods/Headers/Public/React-Core/React/RCTBridgeDelegate.h \
+  /Users/parul/Downloads/shobaik-lobaik-master/user/ios/Pods/Headers/Public/React-Core/React/RCTJavaScriptLoader.h \
+  /Users/parul/Downloads/shobaik-lobaik-master/user/ios/Pods/Headers/Public/React-Core/React/RCTFrameUpdate.h \
+  /Users/parul/Downloads/shobaik-lobaik-master/user/ios/Pods/Headers/Public/React-Core/React/RCTInvalidating.h \
+  /Users/parul/Downloads/shobaik-lobaik-master/user/ios/Pods/Headers/Public/React-Core/React/RCTRootView.h \
+  /Users/parul/Downloads/shobaik-lobaik-master/user/ios/Pods/Headers/Public/React-Core/React/RCTViewManager.h \
+  /Users/parul/Downloads/shobaik-lobaik-master/user/ios/Pods/Headers/Public/React-Core/React/RCTConvert.h \
+  /Users/parul/Downloads/shobaik-lobaik-master/user/ios/Pods/Headers/Public/React-Core/React/RCTAnimationType.h \
+  /Users/parul/Downloads/shobaik-lobaik-master/user/ios/Pods/Headers/Public/React-Core/React/RCTBorderStyle.h \
+  /Users/parul/Downloads/shobaik-lobaik-master/user/ios/Pods/Headers/Public/React-Core/React/RCTLog.h \
+  /Users/parul/Downloads/shobaik-lobaik-master/user/ios/Pods/Headers/Public/React-Core/React/RCTAssert.h \
+  /Users/parul/Downloads/shobaik-lobaik-master/user/ios/Pods/Headers/Public/React-Core/React/RCTUtils.h \
+  /Users/parul/Downloads/shobaik-lobaik-master/user/ios/Pods/Headers/Public/React-Core/React/RCTPointerEvents.h \
+  /Users/parul/Downloads/shobaik-lobaik-master/user/ios/Pods/Headers/Public/React-Core/React/RCTTextDecorationLineType.h \
+  /Users/parul/Downloads/shobaik-lobaik-master/user/ios/Pods/Headers/Private/yoga/Yoga.h \
+  /Users/parul/Downloads/shobaik-lobaik-master/user/ios/Pods/Headers/Private/yoga/YGEnums.h \
+  /Users/parul/Downloads/shobaik-lobaik-master/user/ios/Pods/Headers/Private/yoga/YGMacros.h \
+  /Users/parul/Downloads/shobaik-lobaik-master/user/ios/Pods/Headers/Private/yoga/YGValue.h \
+  /Users/parul/Downloads/shobaik-lobaik-master/user/ios/Pods/Headers/Public/React-Core/React/RCTEventDispatcher.h \
+  /Users/parul/Downloads/shobaik-lobaik-master/user/ios/Pods/Headers/Public/React-Core/React/UIView+React.h \
+  /Users/parul/Downloads/shobaik-lobaik-master/user/ios/Pods/Headers/Public/React-Core/React/RCTComponent.h \
+  /Users/parul/Downloads/shobaik-lobaik-master/user/node_modules/react-native/Libraries/NativeAnimation/Nodes/RCTAdditionAnimatedNode.h \
+  /Users/parul/Downloads/shobaik-lobaik-master/user/node_modules/react-native/Libraries/NativeAnimation/Nodes/RCTValueAnimatedNode.h \
+  /Users/parul/Downloads/shobaik-lobaik-master/user/node_modules/react-native/Libraries/NativeAnimation/Nodes/RCTAnimatedNode.h \
+  /Users/parul/Downloads/shobaik-lobaik-master/user/node_modules/react-native/Libraries/NativeAnimation/Drivers/RCTAnimationDriver.h \
+  /Users/parul/Downloads/shobaik-lobaik-master/user/node_modules/react-native/Libraries/NativeAnimation/Nodes/RCTDiffClampAnimatedNode.h \
+  /Users/parul/Downloads/shobaik-lobaik-master/user/node_modules/react-native/Libraries/NativeAnimation/Nodes/RCTDivisionAnimatedNode.h \
+  /Users/parul/Downloads/shobaik-lobaik-master/user/node_modules/react-native/Libraries/NativeAnimation/Drivers/RCTEventAnimation.h \
+  /Users/parul/Downloads/shobaik-lobaik-master/user/node_modules/react-native/Libraries/NativeAnimation/Drivers/RCTFrameAnimation.h \
+  /Users/parul/Downloads/shobaik-lobaik-master/user/node_modules/react-native/Libraries/NativeAnimation/Drivers/RCTDecayAnimation.h \
+  /Users/parul/Downloads/shobaik-lobaik-master/user/node_modules/react-native/Libraries/NativeAnimation/Nodes/RCTInterpolationAnimatedNode.h \
+  /Users/parul/Downloads/shobaik-lobaik-master/user/node_modules/react-native/Libraries/NativeAnimation/Nodes/RCTModuloAnimatedNode.h \
+  /Users/parul/Downloads/shobaik-lobaik-master/user/node_modules/react-native/Libraries/NativeAnimation/Nodes/RCTMultiplicationAnimatedNode.h \
+  /Users/parul/Downloads/shobaik-lobaik-master/user/node_modules/react-native/Libraries/NativeAnimation/Nodes/RCTPropsAnimatedNode.h \
+  /Users/parul/Downloads/shobaik-lobaik-master/user/node_modules/react-native/Libraries/NativeAnimation/Drivers/RCTSpringAnimation.h \
+  /Users/parul/Downloads/shobaik-lobaik-master/user/node_modules/react-native/Libraries/NativeAnimation/Nodes/RCTStyleAnimatedNode.h \
+  /Users/parul/Downloads/shobaik-lobaik-master/user/node_modules/react-native/Libraries/NativeAnimation/Nodes/RCTSubtractionAnimatedNode.h \
+  /Users/parul/Downloads/shobaik-lobaik-master/user/node_modules/react-native/Libraries/NativeAnimation/Nodes/RCTTransformAnimatedNode.h \
+  /Users/parul/Downloads/shobaik-lobaik-master/user/node_modules/react-native/Libraries/NativeAnimation/Nodes/RCTTrackingAnimatedNode.h

@@ -1,0 +1,20 @@
+dependencies: \
+  /Users/parul/Downloads/shobaik-lobaik-master/driver/node_modules/@mauron85/react-native-background-geolocation/ios/RCTBackgroundGeolocation/RCTBackgroundGeolocation.m \
+  RCTBackgroundGeolocation/RCTBackgroundGeolocation.h \
+  /Users/parul/Downloads/shobaik-lobaik-master/driver/ios/build/Delivery/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeModule.h \
+  /Users/parul/Downloads/shobaik-lobaik-master/driver/ios/build/Delivery/Build/Products/Debug-iphonesimulator/include/React/RCTDefines.h \
+  common/BackgroundGeolocation/MAURProviderDelegate.h \
+  common/BackgroundGeolocation/MAURLocation.h \
+  common/BackgroundGeolocation/MAURActivity.h \
+  /Users/parul/Downloads/shobaik-lobaik-master/driver/ios/build/Delivery/Build/Products/Debug-iphonesimulator/include/React/RCTLog.h \
+  /Users/parul/Downloads/shobaik-lobaik-master/driver/ios/build/Delivery/Build/Products/Debug-iphonesimulator/include/React/RCTAssert.h \
+  /Users/parul/Downloads/shobaik-lobaik-master/driver/ios/build/Delivery/Build/Products/Debug-iphonesimulator/include/React/RCTUtils.h \
+  /Users/parul/Downloads/shobaik-lobaik-master/driver/ios/build/Delivery/Build/Products/Debug-iphonesimulator/include/React/RCTEventDispatcher.h \
+  /Users/parul/Downloads/shobaik-lobaik-master/driver/ios/build/Delivery/Build/Products/Debug-iphonesimulator/include/React/RCTBridge.h \
+  /Users/parul/Downloads/shobaik-lobaik-master/driver/ios/build/Delivery/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeDelegate.h \
+  /Users/parul/Downloads/shobaik-lobaik-master/driver/ios/build/Delivery/Build/Products/Debug-iphonesimulator/include/React/RCTJavaScriptLoader.h \
+  /Users/parul/Downloads/shobaik-lobaik-master/driver/ios/build/Delivery/Build/Products/Debug-iphonesimulator/include/React/RCTFrameUpdate.h \
+  /Users/parul/Downloads/shobaik-lobaik-master/driver/ios/build/Delivery/Build/Products/Debug-iphonesimulator/include/React/RCTInvalidating.h \
+  common/BackgroundGeolocation/MAURConfig.h \
+  common/BackgroundGeolocation/MAURBackgroundGeolocationFacade.h \
+  common/BackgroundGeolocation/MAURBackgroundTaskManager.h

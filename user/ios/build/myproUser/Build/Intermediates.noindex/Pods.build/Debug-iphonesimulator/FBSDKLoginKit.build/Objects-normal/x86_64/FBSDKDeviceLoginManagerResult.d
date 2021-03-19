@@ -1,0 +1,35 @@
+dependencies: \
+  /Users/parul/Downloads/shobaik-lobaik-master/user/ios/build/myproUser/Build/Products/Debug-iphonesimulator/FBSDKCoreKit/FBSDKCoreKit.modulemap \
+  /Users/parul/Downloads/shobaik-lobaik-master/user/ios/Pods/FBSDKLoginKit/FBSDKLoginKit/FBSDKLoginKit/FBSDKDeviceLoginManagerResult.m \
+  /Users/parul/Downloads/shobaik-lobaik-master/user/ios/Pods/Target\ Support\ Files/FBSDKLoginKit/FBSDKLoginKit-prefix.pch \
+  /Users/parul/Downloads/shobaik-lobaik-master/user/ios/Pods/FBSDKLoginKit/FBSDKLoginKit/FBSDKLoginKit/Internal/FBSDKDeviceLoginManagerResult+Internal.h \
+  /Users/parul/Downloads/shobaik-lobaik-master/user/ios/Pods/Headers/Private/FBSDKCoreKit/FBSDKCoreKit.h \
+  /Users/parul/Downloads/shobaik-lobaik-master/user/ios/Pods/Headers/Private/FBSDKCoreKit/FBSDKAccessToken.h \
+  /Users/parul/Downloads/shobaik-lobaik-master/user/ios/Pods/Headers/Private/FBSDKCoreKit/FBSDKCopying.h \
+  /Users/parul/Downloads/shobaik-lobaik-master/user/ios/Pods/Headers/Private/FBSDKCoreKit/FBSDKGraphRequestConnection.h \
+  /Users/parul/Downloads/shobaik-lobaik-master/user/ios/Pods/Headers/Private/FBSDKCoreKit/FBSDKAppEvents.h \
+  /Users/parul/Downloads/shobaik-lobaik-master/user/ios/Pods/Headers/Private/FBSDKCoreKit/FBSDKApplicationDelegate.h \
+  /Users/parul/Downloads/shobaik-lobaik-master/user/ios/Pods/Headers/Private/FBSDKCoreKit/FBSDKButton.h \
+  /Users/parul/Downloads/shobaik-lobaik-master/user/ios/Pods/Headers/Private/FBSDKCoreKit/FBSDKConstants.h \
+  /Users/parul/Downloads/shobaik-lobaik-master/user/ios/Pods/Headers/Private/FBSDKCoreKit/FBSDKGraphRequest.h \
+  /Users/parul/Downloads/shobaik-lobaik-master/user/ios/Pods/Headers/Private/FBSDKCoreKit/FBSDKGraphRequestDataAttachment.h \
+  /Users/parul/Downloads/shobaik-lobaik-master/user/ios/Pods/Headers/Private/FBSDKCoreKit/FBSDKSettings.h \
+  /Users/parul/Downloads/shobaik-lobaik-master/user/ios/Pods/Headers/Private/FBSDKCoreKit/FBSDKTestUsersManager.h \
+  /Users/parul/Downloads/shobaik-lobaik-master/user/ios/Pods/Headers/Private/FBSDKCoreKit/FBSDKUtility.h \
+  /Users/parul/Downloads/shobaik-lobaik-master/user/ios/Pods/Headers/Private/FBSDKCoreKit/FBSDKAppLink.h \
+  /Users/parul/Downloads/shobaik-lobaik-master/user/ios/Pods/Headers/Private/FBSDKCoreKit/FBSDKAppLinkTarget.h \
+  /Users/parul/Downloads/shobaik-lobaik-master/user/ios/Pods/Headers/Private/FBSDKCoreKit/FBSDKAppLinkNavigation.h \
+  /Users/parul/Downloads/shobaik-lobaik-master/user/ios/Pods/Headers/Private/FBSDKCoreKit/FBSDKAppLinkResolving.h \
+  /Users/parul/Downloads/shobaik-lobaik-master/user/ios/Pods/Headers/Private/FBSDKCoreKit/FBSDKAppLinkResolver.h \
+  /Users/parul/Downloads/shobaik-lobaik-master/user/ios/Pods/Headers/Private/FBSDKCoreKit/FBSDKAppLinkResolverRequestBuilder.h \
+  /Users/parul/Downloads/shobaik-lobaik-master/user/ios/Pods/Headers/Private/FBSDKCoreKit/FBSDKAppLinkReturnToRefererController.h \
+  /Users/parul/Downloads/shobaik-lobaik-master/user/ios/Pods/Headers/Private/FBSDKCoreKit/FBSDKAppLinkReturnToRefererView.h \
+  /Users/parul/Downloads/shobaik-lobaik-master/user/ios/Pods/Headers/Private/FBSDKCoreKit/FBSDKAppLinkUtility.h \
+  /Users/parul/Downloads/shobaik-lobaik-master/user/ios/Pods/Headers/Private/FBSDKCoreKit/FBSDKGraphErrorRecoveryProcessor.h \
+  /Users/parul/Downloads/shobaik-lobaik-master/user/ios/Pods/Headers/Private/FBSDKCoreKit/FBSDKMeasurementEvent.h \
+  /Users/parul/Downloads/shobaik-lobaik-master/user/ios/Pods/Headers/Private/FBSDKCoreKit/FBSDKMutableCopying.h \
+  /Users/parul/Downloads/shobaik-lobaik-master/user/ios/Pods/Headers/Private/FBSDKCoreKit/FBSDKProfile.h \
+  /Users/parul/Downloads/shobaik-lobaik-master/user/ios/Pods/Headers/Private/FBSDKCoreKit/FBSDKProfilePictureView.h \
+  /Users/parul/Downloads/shobaik-lobaik-master/user/ios/Pods/Headers/Private/FBSDKCoreKit/FBSDKURL.h \
+  /Users/parul/Downloads/shobaik-lobaik-master/user/ios/Pods/Headers/Private/FBSDKCoreKit/FBSDKWebViewAppLinkResolver.h \
+  /Users/parul/Downloads/shobaik-lobaik-master/user/ios/Pods/FBSDKLoginKit/FBSDKLoginKit/FBSDKLoginKit/FBSDKDeviceLoginManagerResult.h

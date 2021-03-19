@@ -1,0 +1,5 @@
+version: "Apple Swift version 5.1 (swiftlang-1100.0.270.13 clang-1100.0.33.7)"
+options: "3645a79609fa34b07dfd3490ee827cf7"
+build_time: [1615969941, 528905000]
+inputs:
+  "/Users/parul/Downloads/shobaik-lobaik-master/user/ios/File.swift": [1615460295, 288136765]

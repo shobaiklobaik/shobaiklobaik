@@ -1,0 +1,8 @@
+version: "Apple Swift version 5.1 (swiftlang-1100.0.270.13 clang-1100.0.33.7)"
+options: "b3ad1babd8a793c9a7e07e6a6d23774a"
+build_time: [1615459699, 307899000]
+inputs:
+  "/Users/parul/Downloads/shobaik-lobaik-master/user/ios/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/Swift/AccessToken.swift": [1615457168, 153253515]
+  "/Users/parul/Downloads/shobaik-lobaik-master/user/ios/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/Swift/Imports.swift": [1615457168, 153722721]
+  "/Users/parul/Downloads/shobaik-lobaik-master/user/ios/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/Swift/Permission.swift": [1615457168, 152804972]
+  "/Users/parul/Downloads/shobaik-lobaik-master/user/ios/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/Swift/Settings.swift": [1615457168, 154129375]

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>489843727129-691cn5p2cmfen661rn5cdfeqiu6ppj2d.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.489843727129-691cn5p2cmfen661rn5cdfeqiu6ppj2d</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>489843727129-h78t9huqfi2f29gfc1k280v0fvogmjek.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDjqghVENcS00Sw7HTHZuzShKdV1B-pmiI</string>
+	<key>GCM_SENDER_ID</key>
+	<string>489843727129</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.shobaiklobaik.driver</string>
+	<key>PROJECT_ID</key>
+	<string>shobaiklobaikdriver</string>
+	<key>STORAGE_BUCKET</key>
+	<string>shobaiklobaikdriver.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:489843727129:ios:c47a80ece08cc955c18388</string>
+	<key>DATABASE_URL</key>
+	<string>https://shobaiklobaikdriver.firebaseio.com</string>
+</dict>
+</plist>

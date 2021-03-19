@@ -1,0 +1,33 @@
+dependencies: \
+  /Users/parul/Downloads/shobaik-lobaik-master/user/node_modules/react-native/React/Base/Surface/SurfaceHostingView/RCTSurfaceHostingProxyRootView.mm \
+  /Users/parul/Downloads/shobaik-lobaik-master/user/ios/Pods/Target\ Support\ Files/React-Core/React-Core-prefix.pch \
+  /Users/parul/Downloads/shobaik-lobaik-master/user/node_modules/react-native/React/Base/Surface/SurfaceHostingView/RCTSurfaceHostingProxyRootView.h \
+  /Users/parul/Downloads/shobaik-lobaik-master/user/ios/Pods/Headers/Private/React-Core/React/RCTRootView.h \
+  /Users/parul/Downloads/shobaik-lobaik-master/user/ios/Pods/Headers/Private/React-Core/React/RCTBridge.h \
+  /Users/parul/Downloads/shobaik-lobaik-master/user/ios/Pods/Headers/Private/React-Core/React/RCTBridgeDelegate.h \
+  /Users/parul/Downloads/shobaik-lobaik-master/user/ios/Pods/Headers/Private/React-Core/React/RCTJavaScriptLoader.h \
+  /Users/parul/Downloads/shobaik-lobaik-master/user/ios/Pods/Headers/Private/React-Core/React/RCTDefines.h \
+  /Users/parul/Downloads/shobaik-lobaik-master/user/ios/Pods/Headers/Private/React-Core/React/RCTBridgeModule.h \
+  /Users/parul/Downloads/shobaik-lobaik-master/user/ios/Pods/Headers/Private/React-Core/React/RCTFrameUpdate.h \
+  /Users/parul/Downloads/shobaik-lobaik-master/user/ios/Pods/Headers/Private/React-Core/React/RCTInvalidating.h \
+  /Users/parul/Downloads/shobaik-lobaik-master/user/node_modules/react-native/React/Base/Surface/SurfaceHostingView/RCTSurfaceHostingView.h \
+  /Users/parul/Downloads/shobaik-lobaik-master/user/ios/Pods/Headers/Private/React-Core/React/RCTSurfaceDelegate.h \
+  /Users/parul/Downloads/shobaik-lobaik-master/user/ios/Pods/Headers/Private/React-Core/React/RCTSurfaceStage.h \
+  /Users/parul/Downloads/shobaik-lobaik-master/user/ios/Pods/Headers/Private/React-Core/React/RCTSurfaceSizeMeasureMode.h \
+  /Users/parul/Downloads/shobaik-lobaik-master/user/node_modules/react-native/React/Base/RCTAssert.h \
+  /Users/parul/Downloads/shobaik-lobaik-master/user/node_modules/react-native/React/Base/RCTBridge.h \
+  /Users/parul/Downloads/shobaik-lobaik-master/user/node_modules/react-native/React/Base/RCTLog.h \
+  /Users/parul/Downloads/shobaik-lobaik-master/user/ios/Pods/Headers/Private/React-Core/React/RCTAssert.h \
+  /Users/parul/Downloads/shobaik-lobaik-master/user/ios/Pods/Headers/Private/React-Core/React/RCTUtils.h \
+  /Users/parul/Downloads/shobaik-lobaik-master/user/node_modules/react-native/React/Base/RCTPerformanceLogger.h \
+  /Users/parul/Downloads/shobaik-lobaik-master/user/node_modules/react-native/React/Profiler/RCTProfile.h \
+  /Users/parul/Downloads/shobaik-lobaik-master/user/node_modules/react-native/React/Base/RCTRootContentView.h \
+  /Users/parul/Downloads/shobaik-lobaik-master/user/ios/Pods/Headers/Private/React-Core/React/RCTView.h \
+  /Users/parul/Downloads/shobaik-lobaik-master/user/ios/Pods/Headers/Private/React-Core/React/RCTBorderStyle.h \
+  /Users/parul/Downloads/shobaik-lobaik-master/user/ios/Pods/Headers/Private/React-Core/React/RCTComponent.h \
+  /Users/parul/Downloads/shobaik-lobaik-master/user/ios/Pods/Headers/Private/React-Core/React/RCTPointerEvents.h \
+  /Users/parul/Downloads/shobaik-lobaik-master/user/node_modules/react-native/React/Base/RCTRootViewDelegate.h \
+  /Users/parul/Downloads/shobaik-lobaik-master/user/node_modules/react-native/React/Base/Surface/RCTSurface.h \
+  /Users/parul/Downloads/shobaik-lobaik-master/user/node_modules/react-native/React/Views/UIView+React.h \
+  /Users/parul/Downloads/shobaik-lobaik-master/user/ios/Pods/Headers/Private/yoga/YGEnums.h \
+  /Users/parul/Downloads/shobaik-lobaik-master/user/ios/Pods/Headers/Private/yoga/YGMacros.h

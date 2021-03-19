@@ -1,0 +1,4 @@
+dependencies: \
+  /Users/parul/Downloads/shobaik-lobaik-master/driver/ios/Pods/GoogleDataTransport/GoogleDataTransport/GDTCORLibrary/GDTCORAssert.m \
+  /Users/parul/Downloads/shobaik-lobaik-master/driver/ios/Pods/GoogleDataTransport/GoogleDataTransport/GDTCORLibrary/Public/GDTCORAssert.h \
+  /Users/parul/Downloads/shobaik-lobaik-master/driver/ios/Pods/GoogleDataTransport/GoogleDataTransport/GDTCORLibrary/Public/GDTCORConsoleLogger.h

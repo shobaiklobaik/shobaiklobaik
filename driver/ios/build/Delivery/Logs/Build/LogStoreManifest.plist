@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>70905DD5-740E-4DB6-B795-9CD5CE7D15FB</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>70905DD5-740E-4DB6-B795-9CD5CE7D15FB.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Delivery project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Delivery</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building workspace Delivery with scheme Delivery and configuration Debug</string>
+			<key>timeStartedRecording</key>
+			<real>637759624.43900096</real>
+			<key>timeStoppedRecording</key>
+			<real>637759627.64337802</real>
+			<key>title</key>
+			<string>Building workspace Delivery with scheme Delivery and configuration Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>70905DD5-740E-4DB6-B795-9CD5CE7D15FB</string>
+		</dict>
+		<key>BCCFA8AB-EA5F-48B0-8B39-9E09801B6A80</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>BCCFA8AB-EA5F-48B0-8B39-9E09801B6A80.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Delivery project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Delivery</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building workspace Delivery with scheme Delivery and configuration Debug</string>
+			<key>timeStartedRecording</key>
+			<real>637735362.831545</real>
+			<key>timeStoppedRecording</key>
+			<real>637735573.51310396</real>
+			<key>title</key>
+			<string>Building workspace Delivery with scheme Delivery and configuration Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>BCCFA8AB-EA5F-48B0-8B39-9E09801B6A80</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

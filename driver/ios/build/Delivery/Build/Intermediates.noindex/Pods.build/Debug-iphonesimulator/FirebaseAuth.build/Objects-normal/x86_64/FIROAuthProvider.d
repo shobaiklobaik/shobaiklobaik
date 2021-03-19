@@ -1,0 +1,26 @@
+dependencies: \
+  /Users/parul/Downloads/shobaik-lobaik-master/driver/ios/Pods/FirebaseAuth/Firebase/Auth/Source/AuthProvider/OAuth/FIROAuthProvider.m \
+  /Users/parul/Downloads/shobaik-lobaik-master/driver/ios/Pods/FirebaseAuth/Firebase/Auth/Source/Public/FIROAuthProvider.h \
+  /Users/parul/Downloads/shobaik-lobaik-master/driver/ios/Pods/FirebaseAuth/Firebase/Auth/Source/Public/FIRFederatedAuthProvider.h \
+  /Users/parul/Downloads/shobaik-lobaik-master/driver/ios/Pods/FirebaseAuth/Firebase/Auth/Source/Public/FIRAuthUIDelegate.h \
+  /Users/parul/Downloads/shobaik-lobaik-master/driver/ios/Pods/Headers/Private/FirebaseCore/FIRApp.h \
+  /Users/parul/Downloads/shobaik-lobaik-master/driver/ios/Pods/Headers/Private/FirebaseCore/FIROptions.h \
+  /Users/parul/Downloads/shobaik-lobaik-master/driver/ios/Pods/FirebaseAuth/Firebase/Auth/Source/Backend/FIRAuthBackend.h \
+  /Users/parul/Downloads/shobaik-lobaik-master/driver/ios/Pods/FirebaseAuth/Firebase/Auth/Source/Backend/FIRAuthRPCRequest.h \
+  /Users/parul/Downloads/shobaik-lobaik-master/driver/ios/Pods/FirebaseAuth/Firebase/Auth/Source/Backend/FIRAuthRPCResponse.h \
+  /Users/parul/Downloads/shobaik-lobaik-master/driver/ios/Pods/FirebaseAuth/Firebase/Auth/Source/Utilities/FIRAuthErrorUtils.h \
+  /Users/parul/Downloads/shobaik-lobaik-master/driver/ios/Pods/FirebaseAuth/Firebase/Auth/Source/Utilities/FIRAuthInternalErrors.h \
+  /Users/parul/Downloads/shobaik-lobaik-master/driver/ios/Pods/FirebaseAuth/Firebase/Auth/Source/Public/FIRAuthErrors.h \
+  /Users/parul/Downloads/shobaik-lobaik-master/driver/ios/Pods/FirebaseAuth/Firebase/Auth/Source/Public/FIRMultiFactorInfo.h \
+  /Users/parul/Downloads/shobaik-lobaik-master/driver/ios/Pods/FirebaseAuth/Firebase/Auth/Source/Auth/FIRAuthGlobalWorkQueue.h \
+  /Users/parul/Downloads/shobaik-lobaik-master/driver/ios/Pods/FirebaseAuth/Firebase/Auth/Source/Backend/FIRAuthRequestConfiguration.h \
+  /Users/parul/Downloads/shobaik-lobaik-master/driver/ios/Pods/FirebaseAuth/Firebase/Auth/Source/Utilities/FIRAuthWebUtils.h \
+  /Users/parul/Downloads/shobaik-lobaik-master/driver/ios/Pods/FirebaseAuth/Firebase/Auth/Source/Auth/FIRAuth_Internal.h \
+  /Users/parul/Downloads/shobaik-lobaik-master/driver/ios/Pods/FirebaseAuth/Firebase/Auth/Source/Public/FIRAuth.h \
+  /Users/parul/Downloads/shobaik-lobaik-master/driver/ios/Pods/FirebaseAuth/Firebase/Auth/Source/Public/FIRAuthAPNSTokenType.h \
+  /Users/parul/Downloads/shobaik-lobaik-master/driver/ios/Pods/Headers/Private/FirebaseAuthInterop/FIRAuthInterop.h \
+  /Users/parul/Downloads/shobaik-lobaik-master/driver/ios/Pods/FirebaseAuth/Firebase/Auth/Source/Public/FIRFacebookAuthProvider.h \
+  /Users/parul/Downloads/shobaik-lobaik-master/driver/ios/Pods/FirebaseAuth/Firebase/Auth/Source/Public/FIROAuthCredential.h \
+  /Users/parul/Downloads/shobaik-lobaik-master/driver/ios/Pods/FirebaseAuth/Firebase/Auth/Source/Public/FIRAuthCredential.h \
+  /Users/parul/Downloads/shobaik-lobaik-master/driver/ios/Pods/FirebaseAuth/Firebase/Auth/Source/AuthProvider/OAuth/FIROAuthCredential_Internal.h \
+  /Users/parul/Downloads/shobaik-lobaik-master/driver/ios/Pods/FirebaseAuth/Firebase/Auth/Source/Utilities/FIRAuthURLPresenter.h

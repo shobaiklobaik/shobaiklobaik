@@ -1,0 +1,102 @@
+ <MapView
+                        // key={this.state.key}
+                        // style={styles.map}
+                        style={{ flex: 1, width: metrics.screenWidth * 0.916, marginVertical: 10, alignSelf: 'center' }}
+                        // initialRegion={this.state.region}
+                        region={{
+                            latitude: this.state.curr_latitude,
+                            longitude: this.state.curr_longitude,
+                            latitudeDelta: this.state.latitudeDelta,
+                            longitudeDelta: this.state.longitudeDelta
+                        }}
+
+                        // region={this.getMapRegion()}
+                        // onRegionChangeComplete={region => this.setState({ region })}
+                        provider={Platform.OS == "ios" ? null : PROVIDER_GOOGLE}
+                        // zoomControlEnabled={true}
+                        // zoomEnabled={true}
+                        // followUserLocation
+                        // showsUserLocation={this.acceptOrderArray !== undefined ? true : false}
+                        zoom={100}
+                    >
+                        {/* Driver marker */}
+                        {/* {this.state.curr_latitude !== 0 ?  */}
+                        <Marker
+                            // key={this.state.key}
+
+                            coordinate={{
+                                latitude: this.state.curr_latitude,
+                                longitude: this.state.curr_longitude,
+                                // latitudeDelta: this.state.latitudeDelta,
+                                // longitudeDelta: this.state.longitudeDelta
+                            }}
+                            // coordinate={this.state.region}
+                            image={Assets.driver}
+                        />
+
+
+
+
+                        {/* Destination Marker */}
+
+                        {this.isPickup === true ?
+                            <Polyline
+                                coordinates={
+                                    this.state.coords
+                                }
+                                strokeColor={EDColors.primary}
+                                strokeWidth={2}
+                                geodesic={true}
+                            />
+                            : null}
+
+                        {/* restaurant user */}
+
+                        {this.isPickup ?
+                            <Marker
+                                coordinate={{
+                                    latitude: this.res_latitude,
+                                    longitude: this.res_longitude
+                                }}
+                            >
+
+                            </Marker>
+                            : null}
+
+                        {this.isPickup ?
+                            <Marker
+                                coordinate={{
+                                    latitude: this.dest_latitude,
+                                    longitude: this.dest_longitude
+                                }}
+                                image={Assets.destination}
+                            />
+                            : null}
+
+                    </MapView>
+
+
+
+
+
+
+// 11.978386, 78.480409 telanganu
+// const SourceLocation = { latitude: 11.978386, longitude: 78.480409 };
+// const DestinationLocation = { latitude: 21.221953, longitude: 72.891829 };
+// const initialRegion={
+//     latitude:11.978386,
+//     longitude: 78.480409,
+//     latitudeDelta: LATITUDE_DELTA,
+//     longitudeDelta: LONGITUDE_DELTA,
+// }
+
+// const SourceLocation = { latitude: "37.785834", longitude: "-122.406417" };
+// const DestinationLocation = { latitude:"10.9805375", longitude:  "77.0303217"};
+// const initialRegion={
+//     latitude:"10.9805375",
+//     longitude: "77.0303217",
+//     latitudeDelta: LATITUDE_DELTA,
+//     longitudeDelta: LONGITUDE_DELTA,
+// }
+// var SourceLocation = { latitude: 10.980537, longitude: 77.030321};
+// var DestinationLocation = { latitude: 37.785834, longitude: -122.406417 };

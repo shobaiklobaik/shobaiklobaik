@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ShobaikLobaik</string>
+    <!-- <string name="facebook_app_id">483975768975164</string> -->
+
+    <string name="facebook_app_id">718340342369438</string>
+<string name="fb_login_protocol_scheme">fb718340342369438</string>
+
+</resources>

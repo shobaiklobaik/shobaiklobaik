@@ -1,0 +1,22 @@
+dependencies: \
+  /Users/parul/Downloads/shobaik-lobaik-master/driver/ios/Pods/FirebaseCore/FirebaseCore/Sources/FIRApp.m \
+  /Users/parul/Downloads/shobaik-lobaik-master/driver/ios/Pods/FirebaseCore/FirebaseCore/Sources/Public/FIRApp.h \
+  /Users/parul/Downloads/shobaik-lobaik-master/driver/ios/Pods/FirebaseCore/FirebaseCore/Sources/FIRBundleUtil.h \
+  /Users/parul/Downloads/shobaik-lobaik-master/driver/ios/Pods/FirebaseCore/FirebaseCore/Sources/FIRVersion.h \
+  /Users/parul/Downloads/shobaik-lobaik-master/driver/ios/Pods/FirebaseCore/FirebaseCore/Sources/Private/FIRAnalyticsConfiguration.h \
+  /Users/parul/Downloads/shobaik-lobaik-master/driver/ios/Pods/FirebaseCore/FirebaseCore/Sources/Private/FIRAppInternal.h \
+  /Users/parul/Downloads/shobaik-lobaik-master/driver/ios/Pods/FirebaseCore/FirebaseCore/Sources/Private/FIRErrors.h \
+  /Users/parul/Downloads/shobaik-lobaik-master/driver/ios/Pods/FirebaseCore/FirebaseCore/Sources/Private/FIRErrorCode.h \
+  /Users/parul/Downloads/shobaik-lobaik-master/driver/ios/Pods/FirebaseCore/FirebaseCore/Sources/Private/FIRComponentContainerInternal.h \
+  /Users/parul/Downloads/shobaik-lobaik-master/driver/ios/Pods/FirebaseCore/FirebaseCore/Sources/Private/FIRComponent.h \
+  /Users/parul/Downloads/shobaik-lobaik-master/driver/ios/Pods/FirebaseCore/FirebaseCore/Sources/Private/FIRComponentContainer.h \
+  /Users/parul/Downloads/shobaik-lobaik-master/driver/ios/Pods/FirebaseCore/FirebaseCore/Sources/Private/FIRComponentType.h \
+  /Users/parul/Downloads/shobaik-lobaik-master/driver/ios/Pods/FirebaseCore/FirebaseCore/Sources/Private/FIRLibrary.h \
+  /Users/parul/Downloads/shobaik-lobaik-master/driver/ios/Pods/FirebaseCore/FirebaseCore/Sources/Private/FIRConfigurationInternal.h \
+  /Users/parul/Downloads/shobaik-lobaik-master/driver/ios/Pods/FirebaseCore/FirebaseCore/Sources/Public/FIRConfiguration.h \
+  /Users/parul/Downloads/shobaik-lobaik-master/driver/ios/Pods/FirebaseCore/FirebaseCore/Sources/Public/FIRLoggerLevel.h \
+  /Users/parul/Downloads/shobaik-lobaik-master/driver/ios/Pods/FirebaseCore/FirebaseCore/Sources/Private/FIRCoreDiagnosticsConnector.h \
+  /Users/parul/Downloads/shobaik-lobaik-master/driver/ios/Pods/FirebaseCore/FirebaseCore/Sources/Private/FIRLogger.h \
+  /Users/parul/Downloads/shobaik-lobaik-master/driver/ios/Pods/FirebaseCore/FirebaseCore/Sources/Private/FIROptionsInternal.h \
+  /Users/parul/Downloads/shobaik-lobaik-master/driver/ios/Pods/FirebaseCore/FirebaseCore/Sources/Public/FIROptions.h \
+  /Users/parul/Downloads/shobaik-lobaik-master/driver/ios/Pods/Headers/Private/GoogleUtilities/GULAppEnvironmentUtil.h

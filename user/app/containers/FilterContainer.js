@@ -19,7 +19,7 @@ export default class FilterContainer extends React.PureComponent {
 
     this.cookTime = this.props.navigation.state.params.time || 30;
     this.recipeType = this.props.navigation.state.params.food;
-    this.distance = this.props.navigation.state.params.distance || 8;
+    this.distance = this.props.navigation.state.params.distance || 5;
     this.priceType = this.props.navigation.state.params.price;
   }
 

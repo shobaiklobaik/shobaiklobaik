@@ -6,11 +6,11 @@ import { ETFonts } from "../assets/FontConstants";
 export default class TextviewRadius extends React.PureComponent {
   render() {
     return (
-      <View style={style.container}>
-        <TouchableOpacity onPress={this.props.onPress}>
+      // <View style={style.container}>
+        <TouchableOpacity style={style.container} onPress={this.props.onPress}>
           <Text style={style.text}>{this.props.text}</Text>
         </TouchableOpacity>
-      </View>
+      // </View>
     );
   }
 }

@@ -97,7 +97,8 @@ const errorHandler = response => {
 
     var error = new Error(response.statusText || response.status);
     error.response = response;
-    return Promise.reject(error);
+    console.log("err",error.response)
+    return Promise.reject(error);  
   }
 };
 

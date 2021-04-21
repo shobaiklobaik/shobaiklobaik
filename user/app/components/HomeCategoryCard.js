@@ -9,6 +9,7 @@ import FastImage from 'react-native-fast-image';
 export default class HomeCategoryCard extends Component {
   render() {
     categoryObjModel = this.props.categoryObjModel.item;
+    // console.log("catObj",categoryObjModel)
 
     return (
       <TouchableOpacity

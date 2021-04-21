@@ -184,6 +184,8 @@ class MainContainer extends React.Component {
           REGISTRATION_HOME,
           param,
           resp => {
+            console.log("resp---",resp)
+            console.log("resp---",param)
             if (resp != undefined) {
               if (resp.status == RESPONSE_SUCCESS) {
                 this.arrayRestaurants = resp.restaurant;
@@ -202,6 +204,8 @@ class MainContainer extends React.Component {
           err => {
             this.setState({isLoading: false});
             showValidationAlert(this.MgeneralWebServiceError);
+            // showValidationAlert(err.message);
+            console.log("err===",err)
           },
         );
       } else {
@@ -402,7 +406,7 @@ class MainContainer extends React.Component {
                       this.loadData(
                         this.state.latitude,
                         this.state.longitude,
-                        item.item.name,
+                        item.item.name.replace("'",''),
                       );
                       this.modelSelected = item.item.name;
                     }}

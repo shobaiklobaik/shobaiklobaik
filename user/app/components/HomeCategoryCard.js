@@ -50,12 +50,12 @@ export default class HomeCategoryCard extends Component {
                     fontFamily: ETFonts.regular,
                     marginBottom: 3,
                   }}>
-                  {categoryObjModel.name}
+                  {categoryObjModel?.name}
                 </Text>
               </View>
             </View>
             <FastImage
-              source={{uri: categoryObjModel.image}}
+              source={{uri: categoryObjModel?.image}}
               style={{
                 width: '90%',
                 height: 85,

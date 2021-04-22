@@ -114,6 +114,7 @@ class NotificationList extends React.PureComponent {
             error => {
               this.setState({isLoading: false});
               showValidationAlert(this.MgeneralWebServiceError);
+              console.log("notification err",error)
             },
           );
         } else {
@@ -193,7 +194,7 @@ class NotificationList extends React.PureComponent {
                           fontSize: 18,
                           fontWeight: 'bold',
                         }}>
-                        {item.notification_title}
+                        {item?.notification_title}
                       </Text>
 
                       <Text
@@ -202,7 +203,7 @@ class NotificationList extends React.PureComponent {
                           fontFamily: ETFonts.regular,
                           fontSize: 14,
                         }}>
-                        {item.notification_description}
+                        {item?.notification_description}
                       </Text>
                       <Text
                         style={{
@@ -210,7 +211,7 @@ class NotificationList extends React.PureComponent {
                           fontFamily: ETFonts.regular,
                           fontSize: 14,
                         }}>
-                        {item.created_date}
+                        {item?.created_date}
                       </Text>
                     </View>
                   </View>

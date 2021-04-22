@@ -203,7 +203,7 @@ class MainContainer extends React.Component {
           },
           err => {
             this.setState({isLoading: false});
-            showValidationAlert(this.MgeneralWebServiceError);
+            // showValidationAlert(this.MgeneralWebServiceError);
             // showValidationAlert(err.message);
             console.log("err===",err)
           },

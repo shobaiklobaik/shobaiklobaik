@@ -109,16 +109,17 @@ export default class MyBookingContainer extends React.Component {
                 this.setState({isLoading: false});
               }
             } else {
-              showValidationAlert(this.MgeneralWebServiceError);
+              // showValidationAlert(this.MgeneralWebServiceError);
               this.setState({isLoading: false});
             }
           },
           err => {
             this.setState({isLoading: false});
-            showValidationAlert(this.MinternetConnnection);
+            // showValidationAlert(this.MinternetConnnection);
           },
         );
-      } else {
+      } 
+      else {
         showValidationAlert(this.MinternetConnnection);
       }
     });
@@ -145,13 +146,13 @@ export default class MyBookingContainer extends React.Component {
                 this.setState({isLoading: false});
               }
             } else {
-              showValidationAlert(this.MgeneralWebServiceError);
+              // showValidationAlert(this.MgeneralWebServiceError);
               this.setState({isLoading: false});
             }
           },
           err => {
             this.setState({isLoading: false});
-            showValidationAlert(this.MinternetConnnection);
+            // showValidationAlert(this.MinternetConnnection);
           },
         );
       } else {

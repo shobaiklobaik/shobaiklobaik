@@ -15,6 +15,7 @@ export async function apiPost(
   responseError,
   requestHeader = {
     'Content-Type': 'application/json',
+    'Accept': 'application/json'
   },
 ) {
   console.log('request', JSON.stringify(body));
@@ -44,6 +45,7 @@ export async function apiPostFormData(
   responseError,
   requestHeader = {
     'Content-Type': 'multipart/form-data',
+    'Accept': 'application/json'
   },
 ) {
   console.log('request', JSON.stringify(body));
@@ -53,10 +55,12 @@ export async function apiPostFormData(
     body: body,
   })
     .then(errorHandler)
-    .then(response => response.json())
+    .then(response =>  response.json())
     .then(data => {
       console.log('FORM DATA POST Success:', data);
+      
       responseSuccess(data);
+   
     })
     .catch(error => {
       responseError(error);
@@ -68,7 +72,9 @@ export async function apiGet(
   url,
   success,
   responseError,
-  requestHeader = {'Content-Type': 'application/json'},
+  requestHeader = {'Content-Type': 'application/json',
+  'Accept': 'application/json'
+},
 ) {
   fetch(url, {
     method: 'GET',
@@ -77,7 +83,7 @@ export async function apiGet(
     .then(errorHandler)
     .then(response => response.json())
     .then(data => {
-      console.log('GET Success:', data);
+      console.log('GET Success:', data);  
       success(data);
     })
     .catch(error => {
@@ -98,6 +104,7 @@ const errorHandler = response => {
   } else {
     var error = new Error(response.statusText || response.status);
     error.response = response;
+    console.log("error",error.response)
     return Promise.reject(error);
   }
 };

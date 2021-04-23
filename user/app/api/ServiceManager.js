@@ -12,7 +12,8 @@ export async function apiPost(
   responseSuccess,
   responseErr,
   requestHeader = {
-    "Content-Type": "application/json"
+    "Content-Type": "application/json",
+    'Accept': 'application/json'
   }
 ) {
   console.log("request", JSON.stringify(body));
@@ -39,7 +40,8 @@ export async function apiGet(
   responseSuccess,
   responseErr,
   requestHeader = {
-    "Content-Type": "application/json"
+    "Content-Type": "application/json",
+    'Accept': 'application/json'
   }
 ) {
   fetch(url, {
@@ -64,7 +66,8 @@ export function apiDelete(
   responseSuccess,
   responseErr,
   requestHeader = {
-    "Content-Type": "application/json"
+    "Content-Type": "application/json",
+    'Accept': 'application/json'
   }
 ) {
   fetch(url, {

@@ -114,7 +114,7 @@ class NotificationList extends React.PureComponent {
             error => {
               this.setState({isLoading: false});
               // showValidationAlert(this.MgeneralWebServiceError);
-              console.log("notification err",error)
+              // console.log("notification err",error)
             },
           );
         } else {

@@ -257,7 +257,7 @@ class LoginContainer extends React.Component {
                 this.setState({isLoading: false});
               }
             } else {
-              showValidationAlert(this.MgeneralWebServiceError);
+              // showValidationAlert(this.MgeneralWebServiceError);
               this.setState({isLoading: false});
             }
           },
